@@ -25,6 +25,7 @@ The candidates who received votes were:
 - Charles Casper Stockham
 - Diana DeGette
 - Raymon Anthony Doane
+
 The voting results were:
 - Charles Casper Stockham: 23.0% (85,213)
 - Diana DeGette: 73.8% (272,892)
